@@ -1,6 +1,9 @@
 streamlit==1.28.1
 pandas==2.1.3
+plotly==5.18.0
+plotly-express==0.4.1
 numpy==1.24.3
 requests==2.31.0
-pillow==10.1.0
-python-dotenv==1.0.0
+pyarrow==14.0.0
+importlib-metadata==6.11.0
+zstandard==0.21.0
